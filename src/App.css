@@ -97,3 +97,9 @@ i {
   font-size: 1.6rem;
   color: grey;
 }
+
+@media (min-width: 350px) {
+  #root {
+    max-width: 100%;
+  }
+}
