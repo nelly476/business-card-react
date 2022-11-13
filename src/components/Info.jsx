@@ -1,7 +1,6 @@
 function Info() {
   return (
     <div className="info--section">
-      <img src="./src/assets/profile-pic.jpg" alt="Profile picture" />
       <h2>Nelly Bulatova</h2>
       <p className="job-title">Frontend developer</p>
       <p>https://github.com/nelly476</p>
